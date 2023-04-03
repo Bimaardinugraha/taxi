@@ -1,0 +1,15 @@
+C:\22.11.5036\PEMOGRAMAN\TUGAS 2\taxi\taxi\bin\Debug\net6.0\taxi.exe
+C:\22.11.5036\PEMOGRAMAN\TUGAS 2\taxi\taxi\bin\Debug\net6.0\taxi.deps.json
+C:\22.11.5036\PEMOGRAMAN\TUGAS 2\taxi\taxi\bin\Debug\net6.0\taxi.runtimeconfig.json
+C:\22.11.5036\PEMOGRAMAN\TUGAS 2\taxi\taxi\bin\Debug\net6.0\taxi.dll
+C:\22.11.5036\PEMOGRAMAN\TUGAS 2\taxi\taxi\bin\Debug\net6.0\taxi.pdb
+C:\22.11.5036\PEMOGRAMAN\TUGAS 2\taxi\taxi\obj\Debug\net6.0\taxi.csproj.AssemblyReference.cache
+C:\22.11.5036\PEMOGRAMAN\TUGAS 2\taxi\taxi\obj\Debug\net6.0\taxi.GeneratedMSBuildEditorConfig.editorconfig
+C:\22.11.5036\PEMOGRAMAN\TUGAS 2\taxi\taxi\obj\Debug\net6.0\taxi.AssemblyInfoInputs.cache
+C:\22.11.5036\PEMOGRAMAN\TUGAS 2\taxi\taxi\obj\Debug\net6.0\taxi.AssemblyInfo.cs
+C:\22.11.5036\PEMOGRAMAN\TUGAS 2\taxi\taxi\obj\Debug\net6.0\taxi.csproj.CoreCompileInputs.cache
+C:\22.11.5036\PEMOGRAMAN\TUGAS 2\taxi\taxi\obj\Debug\net6.0\taxi.dll
+C:\22.11.5036\PEMOGRAMAN\TUGAS 2\taxi\taxi\obj\Debug\net6.0\refint\taxi.dll
+C:\22.11.5036\PEMOGRAMAN\TUGAS 2\taxi\taxi\obj\Debug\net6.0\taxi.pdb
+C:\22.11.5036\PEMOGRAMAN\TUGAS 2\taxi\taxi\obj\Debug\net6.0\taxi.genruntimeconfig.cache
+C:\22.11.5036\PEMOGRAMAN\TUGAS 2\taxi\taxi\obj\Debug\net6.0\ref\taxi.dll
